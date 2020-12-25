@@ -1,5 +1,5 @@
 # Memrise stats fetcher
-Retrieves learned and total amount words from memrise and exposes this data as http endpoint using Kotless and AWS Lambda.
+Retrieves learned and total amount words from [Memrise](https://www.memrise.com/) and exposes this data as http endpoint using Kotless and AWS Lambda.
 
 ## API
 - GET https://k8sg5btmo4.execute-api.eu-west-1.amazonaws.com/1 - returns stats for current day
